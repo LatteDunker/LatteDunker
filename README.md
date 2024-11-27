@@ -1,3 +1,3 @@
 ## Hi
 
-![](https://github.com/LatteDunker/angel-beats.gif)
+![](angel-beats.gif)
