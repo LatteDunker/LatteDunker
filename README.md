@@ -1,3 +1,2 @@
 ## Hi
 
-![](angel-beats.gif)
